@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/udemy/UE/Obstacle-Course/ObstacleAssault/Content/Main.umap",
+				"D:/udemy/UE/Obstacle-Course/ObstacleAssault/Content/BP_ThirdPersonCharacter.uasset",
+				"D:/udemy/UE/Obstacle-Course/ObstacleAssault/Content/BP_ThirdPersonCharacte.uasset",
+				"D:/udemy/UE/Obstacle-Course/ObstacleAssault/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
